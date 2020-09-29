@@ -35,6 +35,10 @@ while True:
       feelings_list.append("stressed")
       encouragement_list.append("if you are stressed, then too bad for you")
       counter += 1
+    if each_word == "great":
+      feelings_list.append("great")
+      encouragement_list.append("you will still die, someday")
+      counter += 1
 
   if counter == 0:
     
