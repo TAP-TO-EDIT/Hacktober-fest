@@ -51,6 +51,10 @@ while True:
       feelings_list.append("like starting a genocide")
       encouragement_list.append("people generally don't like that")
       counter += 1
+    if each_word == "crappy":
+      feelings_list.append("crappy")
+      encouragement_list.append("your country has a sewerage system, use it")
+      counter += 1
 
 
   if counter == 0:
