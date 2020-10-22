@@ -43,6 +43,10 @@ while True:
       feelings_list.append("good")
       encouragement_list.append("there are millions of children dying of starvation in Africa")
       counter += 1
+    if each_word == "terrible":
+      feelings_list.append("terrible")
+      encouragement_list.append("the millions of children dying of starvation in Africa are feeling more terrible than you")
+      counter += 1
 
 
   if counter == 0:
