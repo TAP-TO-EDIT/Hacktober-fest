@@ -53,7 +53,7 @@ while True:
       counter += 1
     if each_word == "crappy":
       feelings_list.append("crappy")
-      encouragement_list.append("your country has a sewerage system, use it")
+      encouragement_list.append("your country has a sewerage system, so use it")
       counter += 1
 
 
